@@ -103,6 +103,24 @@ mantidos em diretórios separados dentro de `ps_files/`.
 | IHP SG13G2 | 130 nm | Fabricável — processo real e PDK aberto | Síntese lógica testada | Localização variável da biblioteca `sg13g2_stdcell` e validação dos arquivos antes do fluxo. |
 | FreePDK45 / Nangate45 | 45 nm | Apenas educacional — biblioteca de referência | Síntese testada | LEF, Liberty, GDS e CDL separados para síntese, Innovus e LVS. |
 | ASAP7 | 7 nm | Apenas educacional — nó preditivo | Fluxo completo concluído | QRC externo obrigatório e correção do argumento para `create_rc_corner`. |
+
+## Imagens das sínteses
+
+<table>
+  <tr>
+    <td align="center"><strong>SKY130 HD</strong><br><img src="images/sky130.jpeg" alt="Síntese SKY130 HD" width="480"></td>
+    <td align="center"><strong>GF180MCU</strong><br><img src="images/gf180.jpeg" alt="Síntese GF180MCU" width="480"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ICsprout55 H7CR</strong><br><img src="images/ics55.jpeg" alt="Síntese ICsprout55 H7CR" width="480"></td>
+    <td align="center"><strong>IHP SG13G2</strong><br><img src="images/ihp130.jpeg" alt="Síntese IHP SG13G2" width="480"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>FreePDK45 / Nangate45</strong><br><img src="images/freepdk45.jpeg" alt="Síntese FreePDK45" width="480"></td>
+    <td align="center"><strong>ASAP7</strong><br><img src="images/asap7.jpeg" alt="Síntese ASAP7" width="480"></td>
+  </tr>
+</table>
+
 ## SKY130
 
 O diretório disponível continha:
